@@ -1,0 +1,16 @@
+{
+  "name": "testproject",
+  "version": "1.0.0",
+  "description": "Test project to use cypress.io for E2E",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "cypress:open": "cypress open"
+  },
+  "author": "dvkannandev",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^2.1.0"
+  }
+}
